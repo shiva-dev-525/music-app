@@ -5,7 +5,7 @@ const songs = [
     id: 1,
     title: "Be my Baby",
     artist: "The Ronnetes",
-    url: `${import.meta.env.BASE_URL}songs/06. The Ronettes - Be My Baby.mp3`,
+    url: `${import.meta.env.BASE_URL}songs/be-my-baby.mp3`,
     duration: "2:41",
   },
   {
